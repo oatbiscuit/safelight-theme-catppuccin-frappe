@@ -4,5 +4,6 @@
   "version": "1.0.0",
   "description": "Catppuccin Frappe theme.",
   "author": "oatbiscuit",
-  "main": "index.js"
+  "main": "index.js",
+  "categories": "Themes"
 }
