@@ -1,0 +1,8 @@
+{
+  "id": "theme-catppuccin-frappe",
+  "name": "catppuccin-frappe",
+  "version": "1.0.0",
+  "description": "Catppuccin Frappe theme.",
+  "author": "oatbiscuit",
+  "main": "index.js"
+}
